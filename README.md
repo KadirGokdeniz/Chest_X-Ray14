@@ -33,6 +33,6 @@ This project focuses on developing a robust classification model for lung X-ray 
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/KadirGokdeniz/Chest_X-Ray14>
 cd Chest_X-Ray14
 pip install -r requirements.txt
