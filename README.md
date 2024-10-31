@@ -1,5 +1,7 @@
 # Chest X-Ray14 Classification Project
 
+**Note**: I am currently working on this repo. Therefore, some details may be absent for now.
+
 ## Project Overview
 
 This project focuses on developing a robust classification model for lung X-ray images using various deep learning architectures, including VGG, AlexNet, ResNet, MobileNet, and Inception. The goal is to accurately categorize X-ray images into 14 distinct classes while addressing challenges such as class imbalance within the dataset.
@@ -34,4 +36,3 @@ To get started with this project, clone the repository and install the necessary
 git clone <repository_url>
 cd Chest_X-Ray14
 pip install -r requirements.txt
-**Note**: I am currently working on this repo. Therefore, some details may be absent for now.
